@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="18c713d383da521089f6c8a6feaad329" label="Test Transform Target" max_length="40" name="x_1189351_tt_test_transform_target" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Map1" max_length="40" name="map" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Map2" max_length="80" name="map2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field1" max_length="80" name="field1" type="string"/>
+    </element>
+</database>

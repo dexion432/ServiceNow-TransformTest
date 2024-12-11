@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="729d1b9b83da521089f6c8a6feaad35e" extends="sys_import_set_row" label="Test Import Set" max_length="40" name="x_1189351_tt_test_import_set" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Field1" label="Field1" max_length="40" name="u_field1" type="string"/>
+    </element>
+</database>
